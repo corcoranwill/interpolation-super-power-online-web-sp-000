@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-
+rainbow_colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 # write a function called display_rainbow
 # method should receive an array of colors as an argument [red, orange, yellow, green, blue, indigo, violet]
@@ -14,5 +14,5 @@ def display_rainbow(colors)
     puts color
 end
 
-rainbow_colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+
 display_rainbow(rainbow_colors)
