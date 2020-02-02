@@ -2,7 +2,7 @@
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 def display_rainbow(colors)
-  print color.slice(0).upcase
+  print colors(0).slice(0).upcase
   # colors.each do |color|
   #   first_letter = color.slice(0)
   #   print "#{first_letter.upcase}: #{color}, "
