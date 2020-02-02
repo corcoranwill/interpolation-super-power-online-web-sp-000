@@ -14,4 +14,5 @@ def display_rainbow(colors)
     puts color
 end
 
-display_rainbow(["red", "orange", "yellow", "green", "blue", "indigo", "violet"])
+rainbow_colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+display_rainbow(rainbow_colors)
