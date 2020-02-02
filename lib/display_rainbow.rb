@@ -2,7 +2,7 @@
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 def display_rainbow(colors)
-  print "${R}: #{colors[0]}, "
+  print "R: #{colors[0]}, "
   # print "${colors[1].slice[0].upcase}: colors[1], "
   # print "${colors[2].slice[0].upcase}: colors[2], "
   # print "${colors[3].slice[0].upcase}: colors[3], "
